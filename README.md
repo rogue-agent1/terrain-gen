@@ -1,6 +1,6 @@
-# Terrain Generator
+# terrain-gen
 
-Terrain Generator — zero-dependency, single-file Python CLI.
+Procedural Terrain Generator. Zero-dependency, single-file Python CLI.
 
 ## Usage
 
