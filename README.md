@@ -1,11 +1,9 @@
-# terrain-gen
+# Terrain Generator
 
-2D terrain generator with biomes.
-
-Zero dependencies. Python 3.8+.
+Terrain Generator — zero-dependency Python implementation.
 
 ## Usage
 
 ```bash
-python3 terrain_gen.py --help
+python3 terrain_gen.py
 ```
