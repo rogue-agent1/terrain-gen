@@ -1,9 +1,13 @@
 # Terrain Generator
 
-Terrain Generator — zero-dependency Python implementation.
+Terrain Generator — zero-dependency, single-file Python CLI.
 
 ## Usage
 
 ```bash
-python3 terrain_gen.py
+python3 terrain_gen.py --help
 ```
+
+## License
+
+MIT
